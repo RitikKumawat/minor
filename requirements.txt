@@ -4,5 +4,6 @@ sklearn
 numpy
 matplotlib
 streamlit
-
+pywin32
+pickle
 
