@@ -4,3 +4,4 @@ sklearn
 numpy
 matplotlib
 streamlit
+pickle
