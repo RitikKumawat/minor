@@ -1,7 +1,7 @@
 import numpy as np 
 import pickle
 import streamlit as st 
-loaded_model = pickle.load(open('E:/minor project/trained_model.sav','rb'))
+loaded_model = pickle.load(open('/trained_model.sav','rb'))
 
 def fraud_prediction(input_data):
     input_data_as_numpy_array =  np.array(input_data)
